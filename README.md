@@ -12,3 +12,5 @@ DAS: Direct-Attached Storage       开放系统的直连式存储
 NAS: Network Attached Storage      网络附属存储
 
 SAN: Storage Area Network          存储区域网络
+
+SCSI:  Small Computer System Interface         小型计算机系统接口
