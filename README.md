@@ -18,3 +18,5 @@ SCSI:  Small Computer System Interface         小型计算机系统接口
 DLPI:   Data Link Provider Interface       数据链路层服务
 
 BPF:  Berkeley Packet Filter       柏克莱封包过滤器
+
+BGP: Border Gateway Protocol      边界网关协议
