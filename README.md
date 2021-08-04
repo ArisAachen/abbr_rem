@@ -14,3 +14,7 @@ NAS: Network Attached Storage      网络附属存储
 SAN: Storage Area Network          存储区域网络
 
 SCSI:  Small Computer System Interface         小型计算机系统接口
+
+DLPI:   Data Link Provider Interface       数据链路层服务
+
+BPF:  Berkeley Packet Filter       柏克莱封包过滤器
