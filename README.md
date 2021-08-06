@@ -20,3 +20,7 @@ DLPI:   Data Link Provider Interface       数据链路层服务
 BPF:  Berkeley Packet Filter       柏克莱封包过滤器
 
 BGP: Border Gateway Protocol      边界网关协议
+
+SNMP:  Simple Network Management Protocol   简单网络管理协议
+
+MIB: Management Information Base    管理信息库
