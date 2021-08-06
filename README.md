@@ -24,3 +24,5 @@ BGP: Border Gateway Protocol      边界网关协议
 SNMP:  Simple Network Management Protocol   简单网络管理协议
 
 MIB: Management Information Base    管理信息库
+
+ATM： Asynchronous Transfer Mode 异步传输模式  
