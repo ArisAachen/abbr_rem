@@ -26,3 +26,7 @@ SNMP:  Simple Network Management Protocol   简单网络管理协议
 MIB: Management Information Base    管理信息库
 
 ATM： Asynchronous Transfer Mode 异步传输模式  
+
+CSMA: Carrier Sense Multiple Access    载波侦听多路访问
+
+CSMA/CD:  Carrier Sense Multiple Access with Collision Detection   载波侦听多路访问/冲突检测
