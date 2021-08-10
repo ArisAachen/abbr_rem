@@ -32,3 +32,5 @@ CSMA: Carrier Sense Multiple Access    载波侦听多路访问
 CSMA/CD:  Carrier Sense Multiple Access with Collision Detection   载波侦听多路访问/冲突检测
 
 FDDI: Fiber Distributed Data Interface   光纤分布式数据接口
+
+ADSL:  Asymmetric Digital Subscriber Line   非对称数字用户线路
