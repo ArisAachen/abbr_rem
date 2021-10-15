@@ -38,3 +38,5 @@ ADSL:  Asymmetric Digital Subscriber Line   非对称数字用户线路
 OFDM: 正交频分复用技术 多载波调制的一种。通过频分复用实现高速串行数据的并行传输, 它具有较好的抗多径衰弱的能力，能够支持多用户接入。
 
 RSN（Robust Security Network，强健安全网络）
+
+IEs: Information elements
