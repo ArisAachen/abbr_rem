@@ -40,3 +40,5 @@ OFDM: 正交频分复用技术 多载波调制的一种。通过频分复用实�
 RSN（Robust Security Network，强健安全网络）
 
 IEs: Information elements
+
+RCU: Read-Copy Update  读-拷贝修改
