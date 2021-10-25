@@ -42,3 +42,5 @@ RSN（Robust Security Network，强健安全网络）
 IEs: Information elements
 
 RCU: Read-Copy Update  读-拷贝修改
+
+TDLS: Tunneled Direct Link Setup，通道直接链路建立   这项标准允许两款设备通过WiFi网络进行点对点直连
